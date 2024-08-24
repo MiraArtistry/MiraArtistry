@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on coding and design projects
 - 📫 How to reach me mariamadetola7@gmail.com
 - 😄 Pronouns: her
-- ⚡ Fun fact: I am a college student
+
 
 <!---
 MiraArtistry/MiraArtistry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
